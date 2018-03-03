@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="WRDCpro">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="WRDCpro"/>
+        <property name="java-output-path" value="/WRDCpro/WebContent/WEB-INF/classpath"/>
+    </wb-module>
+</project-modules>
